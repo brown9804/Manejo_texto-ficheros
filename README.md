@@ -1,4 +1,6 @@
-Para inicializare el programa debera tener makefile instalado, en caso de no tenerlo debera 
+# Manejo texto ficheros
+
+Para inicializar el programa debera tener makefile instalado, en caso de no tenerlo debera 
 ejecutar los siguientes comandos desde su terminal:
 sudo apt-get update
 sudo apt-get install make
